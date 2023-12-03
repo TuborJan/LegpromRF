@@ -1,0 +1,13 @@
+.App {
+  max-width: 1270px;
+  margin: 0 auto;
+  padding: 50px 25px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 479px) {
+  .App {
+    padding: 20px 15px;
+  }
+}
